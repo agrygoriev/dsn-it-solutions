@@ -1,0 +1,6 @@
+node_modules/
+stuff/
+*.psd
+logs
+*.log
+npm-debug.log*
